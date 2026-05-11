@@ -1,8 +1,6 @@
-# Lulu’s Tools
+# Lulu’s Tools Recreation
 
-https://ffxiv.pf-n.co/
-
-Just a site so I can learn new frameworks and stuff.
+Lulu's Tools hasn't been updated for any content past 5.5. This project intends to add the 7.5 Ocean Fishing data and any other tools as needed.
 
 ## Development
 
